@@ -4,7 +4,7 @@ Counter-Strike 1.6社区版发布，经过一段时间的实战测试，还是�
 
 经过我火柴人团队的努力，给大家搞来了收费星球的CS。8月10号 Hvv 大家加油。
 
-## https://anonfiles.com/gbteY467zd/Counter_Strike_zip
+## [https://anonfiles.com/gbteY467zd/Counter_Strike_zip](https://anonfiles.com/m3RfY866z5/Counter_Strike_zip)
 
 # CVE-2023-9999
 # CVE-2023-99999
